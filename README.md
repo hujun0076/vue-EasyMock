@@ -1,5 +1,5 @@
 # vue-EasyMock
-vue全家桶制作的easy-mock PC端  仅个人项目实践~~
+:book: vue全家桶制作的easy-mock PC端  仅个人项目实践
 
 ## use
 
