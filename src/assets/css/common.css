@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  background: #f5f6fa;
+  font: 12px/1.5 'Microsoft YaHei';
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-style: normal;
+  font-weight: normal;
+}
+input,
+button {
+  border: 0;
+  outline: none;
+}
+.clearfix:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.clearfix {
+  zoom: 1;
+}
+li {
+  list-style-type: none;
+}
+.copyright {
+  bottom: 10px;
+  color: #c5c5c5;
+  text-align: center;
+}
